@@ -12,8 +12,4 @@ This repository contains the source code for a password generator project. The p
 
 Contributions to this password generator project are welcome. If you encounter any issues or have ideas for improvements, feel free to submit a pull request or open an issue.
 
-## Contributing
-
-Contributions to the Shuffle Password Generator project are welcome. If you encounter any issues or have ideas for improvements, please submit a pull request or open an issue.
-
 ## Thanks!
