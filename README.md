@@ -1,6 +1,3 @@
-# Password-Generator
-Without Shuffle Password Generator Project File:
-
 # Password Generator
 
 This repository contains the source code for a password generator project. The password generator allows users to generate strong and secure passwords based on their specified criteria, such as length and character types (numbers, symbols, uppercase or lowercase letters). 
